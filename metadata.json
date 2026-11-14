@@ -1,0 +1,8 @@
+{
+  "name": "RouteBack – Smart Return-Trip Goods Transportation Platform",
+  "description": "Connect empty commercial vehicle return journeys with verified shipment requests using weighted route and capacity matching, transparent fare estimation, simulated shipment tracking, and CO2 impact analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
